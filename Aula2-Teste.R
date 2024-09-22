@@ -7,3 +7,11 @@ y <- function(x) {
 
 x<-y(2)
 x
+
+# Fazendo um segundo commit para ver como funciona quando fechamos o arquivo e abrimos novamente
+
+f <- c(1,2,3,4)
+
+for (x in f) {
+  print(x)
+}
